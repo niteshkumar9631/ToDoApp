@@ -2,6 +2,9 @@
 
 A simple and responsive ToDo App built with **React.js**. Easily add, delete, and manage your daily tasks.
 
+## 🔗 Live Demo
+https://to-do-app-opal-nu.vercel.app/
+
 ## ✨ Features
 
 - Add new tasks
